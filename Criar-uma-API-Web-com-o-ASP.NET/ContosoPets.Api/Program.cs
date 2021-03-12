@@ -5,6 +5,9 @@ using Microsoft.Extensions.Hosting;
 
 namespace ContosoPets.Api
 {
+    /*
+    https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/1-introduction 
+     */
     public class Program
     {
         public static void Main(string[] args) =>
